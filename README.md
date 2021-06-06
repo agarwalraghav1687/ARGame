@@ -16,3 +16,8 @@ It is a very simple gameplay, where you need to first smile twice to start the g
  # GamePlay
 It is a simple gameplay in which you have to **smile and bink** at the right time :)
 You need to first smile twice to start the game. **Smiling will help you reduce your stress level and start the game.** Then you will see your face and a scene with a rider and score card above your head. The score card will follow your head motions as well. You have to blink at correct time to pass the hurdle. You can smile to pause and play the game. It is a game to just chillax you keeping your health in mind.
+
+# TryOut Link
+
+<b> Facebook :</b> https://www.facebook.com/fbcameraeffects/tryit/914956062382412/ <br>
+<b> Instagram :</b> https://www.instagram.com/ar/914956062382412/
